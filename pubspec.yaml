@@ -5,12 +5,12 @@ author: Paul Han <paul@salondecode.io>
 homepage: https://github.com/salondecode/kopo
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  webview_flutter: ^1.0.1
+  webview_flutter: ^2.0.8
 
 dev_dependencies:
   flutter_test:
